@@ -16,7 +16,6 @@ buttons = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="▷", callback_data="resume_cb|{chat_id}""),
             InlineKeyboardButton(text="II", callback_data="pause_cb|{chat_id}""),
-            InlineKeyboardButton(text="↻", callback_data="replay_cb|{chat_id}"),
             InlineKeyboardButton(text="‣‣I", callback_data="skip_cb|{chat_id}""),
             InlineKeyboardButton(text="▢", callback_data="end_cb|{chat_id}""),
         ]
