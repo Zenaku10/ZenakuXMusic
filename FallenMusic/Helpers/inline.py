@@ -56,7 +56,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text=" sᴏᴜʀᴄᴇ ", url="https://vm.tiktok.com/ZMM2JbEfk/"
+            text=" sᴏᴜʀᴄᴇ ", url="https://t.me/FoRBIDDen_FeeLinG5/4"
         ),
         InlineKeyboardButton(text=" ᴅᴇᴠᴇʟᴏᴩᴇʀ ", user_id=config.OWNER_ID),
     ],
@@ -76,7 +76,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text=" sᴏᴜʀᴄᴇ ", url="https://vm.tiktok.com/ZMM2JbEfk/"
+            text=" sᴏᴜʀᴄᴇ ", url="https://t.me/FoRBIDDen_FeeLinG5/4"
         ),
         InlineKeyboardButton(text=" ᴅᴇᴠᴇʟᴏᴩᴇʀ ", user_id=config.OWNER_ID),
     ],
