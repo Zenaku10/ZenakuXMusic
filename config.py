@@ -11,6 +11,8 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "1200"))
 
+AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
+
 OWNER_ID = int(getenv("OWNER_ID"))
 
 PING_IMG = getenv("PING_IMG", "https://te.legra.ph/file/5be4505a80556f0652b13.jpg")
