@@ -1,7 +1,7 @@
 {
-    "name": "ʟɪɢɪᴛ ダ ᴍᴜsɪᴄ",
+    "name": "ᴢᴇɴᴀᴋᴜ ダ ᴍᴜsɪᴄ",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/424dcd0513719de080db2.jpg",
+    "logo": "https://te.legra.ph/file/398dceb7be661343981dc.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,12 +13,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "21248697",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "88d33cb64a1d77cb6189233cf74aa51f",
         "required": true
       },
       "BOT_TOKEN": {
@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1356469075",
+        "value": "1318826936",
         "required": true
       },
       "SESSION": {
@@ -38,12 +38,17 @@
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1318826936",
         "required": true
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/sastatony",
+        "value": "https://t.me/ZeNaKuCHaT",
+        "required": false
+      },
+      "SUPPORT_CHANNEL": {
+        "description": "Link of your telegram support Channel. (Must pe public)",
+        "value": "https://t.me/ZeNaKuTeCH",
         "required": false
       }
     },
